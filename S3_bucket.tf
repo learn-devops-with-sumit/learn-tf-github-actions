@@ -6,7 +6,7 @@ resource "aws_s3_bucket" "Github_Action" {
   bucket = "Git_S3_bucket_90500"
 
   tags = {
-    Name        = "MyS3Bucket"
+    Name  = "MyS3Bucket"
   }
 }
 
