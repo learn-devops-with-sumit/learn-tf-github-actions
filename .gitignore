@@ -1,2 +1,7 @@
 .terraform/
 .terraform.lock.hcl
+<<<<<<< HEAD
+=======
+.terraform/
+.terraform.lock.hcl
+>>>>>>> S3_bucket
